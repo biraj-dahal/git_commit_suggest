@@ -1,0 +1,1 @@
+$XONSH_BIND_KEYS['{shortcut}'] = 'git commit -m "$(git-commit-suggest)"'

@@ -1,0 +1,3 @@
+bind '{shortcut}' {{
+    commandline "git commit -m \"(git-commit-suggest | str trim)\""
+}}
